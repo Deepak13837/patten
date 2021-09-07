@@ -1,0 +1,4 @@
+Output:
+***MY FAVORATE RACING BIKE***
+Bike is:Red Pulsar and it's price is Rs.123806
+Bike is:Blue Kawasaki and it's price is Rs.595460
